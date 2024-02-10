@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Arale",
+      "occupation": "Play",
+      "weapon": "Robot",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "007",
+      "occupation": "Secret Agent",
+      "weapon": "Walter PPT",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": "Billy the Kid",
+      "occupation": "Outlaw",
+      "weapon": "Gun",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": "Superman",
+      "occupation": "Hero",
+      "weapon": "Superpowers",
+      "cartoon": true,
+      "id": 7
+    }
+  ]
+}
